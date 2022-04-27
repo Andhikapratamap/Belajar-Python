@@ -47,6 +47,6 @@ atau
 
  ``PRINT()`` 
 
-, akan muncul pesan error.
+maka akan muncul pesan error.
 Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.  </p>
 
