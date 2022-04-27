@@ -11,5 +11,8 @@
 ```Python
 print("Hello world")
 ```
- <p>Maka menghasilkan output `Hello world`
+ <p>Maka menghasilkan output: 
 
+`Hello world`.
+
+<p>pada interpreter</p>
