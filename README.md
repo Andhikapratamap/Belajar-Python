@@ -162,9 +162,23 @@ print(type(biodata)) #fungsi untuk mengecek jenis tipe data. akan tampil <class 
 <h3>Variabel dalam Python</h3>
 <p>Variabel adalah lokasi memori yang dicadangkan untuk menyimpan nilai-nilai. Ini berarti bahwa ketika Anda membuat sebuah variabel Anda memesan beberapa ruang di memori. Variabel menyimpan data yang dilakukan selama program dieksekusi, yang nantinya isi dari variabel tersebut dapat diubah oleh operasi - operasi tertentu pada program yang menggunakan variabel.</p>
 Penulisan variabel Python sendiri juga memiliki aturan tertentu, yaitu :
- 1. Karakter pertama harus berupa huruf atau garis bawah/underscore ``_``
- 2. Karakter selanjutnya dapat berupa huruf, garis bawah/underscore ``_`` atau angka
- 3. Karakter pada nama variabel bersifat sensitif (case-sensitif). Artinya huruf kecil dan huruf besar dibedakan. Sebagai contoh, variabel ``akudia`` dan ``akuDia`` adalah variabel yang berbeda
+ <p>1. Karakter pertama harus berupa huruf atau garis bawah/underscore 
+   
+   ``_``
+
+
+   
+  </p>
+   
+ <p>2. Karakter selanjutnya dapat berupa huruf, garis bawah/underscore 
+    
+    ``_``   
+
+   atau angka</p>
+
+ <p>3. Karakter pada nama variabel bersifat sensitif (case-sensitif). Artinya huruf kecil dan huruf besar dibedakan. Sebagai contoh, variabel 
+       
+       ``akudia``  dan  ``akuDia``     adalah variabel yang berbeda
    
   <p>Untuk mulai membuat variabel di Python caranya sangat mudah, Anda cukup menuliskan variabel lalu mengisinya dengan suatu nilai dengan cara menambahkan tanda sama dengan ``=``  </p>
 
