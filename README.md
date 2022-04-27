@@ -113,7 +113,7 @@ Berikut adalah tipe data dari bahasa pemrograman Python :
 
  Dictionary
  contohnya   : {'nama':'Tia','id':1}
- Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
+ Penjelasaan : Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
  
 ```
 
