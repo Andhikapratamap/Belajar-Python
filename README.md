@@ -7,4 +7,9 @@
   <h3>Hello World</h3>
   <p>Hello world (Halo dunia) umumnya adalah program komputer yang mengeluarkan atau menampilkan pesan "Hello, World!". Program semacam itu sangat sederhana di sebagian besar bahasa pemrograman, dan sering digunakan untuk menggambarkan sintaks dasar bahasa pemrograman.</p>
   <p>untuk bahasa Python kalian tinggal mengetik :</p>
+```
+git status
+git add
+git commit
+```
 
