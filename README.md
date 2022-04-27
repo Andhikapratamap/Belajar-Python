@@ -49,4 +49,20 @@ atau
 
 maka akan muncul pesan error.
 Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.  </p>
+<hr>
+<h3>Komentar pada Python</h3>
+<p>Komentar (comment) adalah kode di dalam script Python yang tidak dieksekusi atau tidak dijalankan mesin. Komentar hanya digunakan untuk menandai atau memberikan keterangan tertulis pada script.</p>
+<p>untuk membuat komentar kalian hanya perlu mengetik 
+
+``#`` dan di ikuti dengan komentar kalian,contohnya 👇
+
+```Python
+#ini komentar
+#ini menyatakan komentar
+#dibuat oleh Andhika Pratama Putra
+#aku rindu kamu T
+```
+
+
+
 
