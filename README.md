@@ -6,16 +6,9 @@
   <hr>
   <h3>Hello World</h3>
   <p>Hello world (Halo dunia) umumnya adalah program komputer yang mengeluarkan atau menampilkan pesan "Hello, World!". Program semacam itu sangat sederhana di sebagian besar bahasa pemrograman, dan sering digunakan untuk menggambarkan sintaks dasar bahasa pemrograman.</p>
-  <p>untuk bahasa Python kalian tinggal mengetik :</p>
-  ``` Python
-  print("Hello world)
-  ```
-  Memperbarui Repository
+  untuk bahasa Python kalian tinggal mengetik :
 
-Perbarui repository yang telah diunduh ke dalam komputer menggunakan perintah
-`git pull`.
-
-```
-git pull origin <nama branch>
+```Python
+print("Hello world")
 ```
 
