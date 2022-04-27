@@ -57,10 +57,13 @@ Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.  </p>
 ``#`` dan di ikuti dengan komentar kalian,contohnya 👇
 
 ```Python
-#ini komentar
-#ini menyatakan komentar
+#ini komentar satu baris
+'''
+ini menyatakan komentar
+lebih dari satu baris 
+'''
 #dibuat oleh Andhika Pratama Putra
-#aku rindu kamu T
+#aku rindu kamu T💙
 print("=" * 10)
 #maka yang tampil di output hanya tulisan = dikali 10 atau ==========
 ```
