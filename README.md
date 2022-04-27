@@ -164,7 +164,7 @@ print(type(biodata)) #fungsi untuk mengecek jenis tipe data. akan tampil <class 
 Penulisan variabel Python sendiri juga memiliki aturan tertentu, yaitu :
  <p>1. Karakter pertama harus berupa huruf atau garis bawah/underscore 
    
-   ``_``
+   _
 
 
    
@@ -172,15 +172,56 @@ Penulisan variabel Python sendiri juga memiliki aturan tertentu, yaitu :
    
  <p>2. Karakter selanjutnya dapat berupa huruf, garis bawah/underscore 
     
-    ``_``   
+    _
 
    atau angka</p>
 
  <p>3. Karakter pada nama variabel bersifat sensitif (case-sensitif). Artinya huruf kecil dan huruf besar dibedakan. Sebagai contoh, variabel 
        
-       ``akudia``  dan  ``akuDia``     adalah variabel yang berbeda
+       akudia  dan  akuDia    adalah variabel yang berbeda
    
-  <p>Untuk mulai membuat variabel di Python caranya sangat mudah, Anda cukup menuliskan variabel lalu mengisinya dengan suatu nilai dengan cara menambahkan tanda sama dengan ``=``  </p>
+  <p>Untuk mulai membuat variabel di Python caranya sangat mudah, Anda cukup menuliskan variabel lalu mengisinya dengan suatu nilai dengan cara menambahkan tanda sama dengan  =  </p>
+
+<h3>Penerapan variabel dalam Python👇</h3>
+
+```Python
+
+#proses memasukan data ke dalam variabel
+nama = "Andhika Pratama Putra"
+#proses mencetak variabel
+print(nama)
+
+#nilai dan tipe data dalam variabel  dapat diubah
+umur = 20               #nilai awal
+print(umur)             #mencetak nilai umur
+type(umur)              #mengecek tipe data umur
+umur = "dua puluh satu" #nilai setelah diubah
+print(umur)             #mencetak nilai umur
+type(umur)              #mengecek tipe data umur
+
+namaDepan = "Diandra"
+namaBelakang = "naufal"
+nama = namaDepan + " " + namaBelakang
+umur = 18
+hobi = "Sepak bola"
+print("Biodata\n", nama, "\n", umur, "\n", hobi)
+
+#contoh variabel lainya
+inivariabel = "Halo"
+ini_juga_variabel = "Hai"
+_inivariabeljuga = "Hi"
+inivariabel222 = "Bye" 
+
+panjang = 10
+lebar = 5
+luas = panjang * lebar
+print(luas)
+
+
+
+
+
+```
 
 
 
