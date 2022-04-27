@@ -61,6 +61,8 @@ Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.  </p>
 #ini menyatakan komentar
 #dibuat oleh Andhika Pratama Putra
 #aku rindu kamu T
+print("=" * 10)
+#maka yang tampil di output hanya tulisan = dikali 10 atau ==========
 ```
 
 
