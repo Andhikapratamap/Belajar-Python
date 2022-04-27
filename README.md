@@ -7,11 +7,21 @@
   <h3>Panduan menginstall Python</h3>
   Cara menginstal python sangat mudah, ikuti panduan dibawah ini. Dibawah adalah panduan cara instal python di platform <a href="#">Linux,<a href="#">Windows</a> dan <a href="#">Mac OS</a>.
   <h3>Linux</h3>
-  1. Buka browser, kunjungi http://www.python.org/downloads/source/
-  2. Download versi terbaru Python berbentuk file zip untuk Unix/Linux
-  3. Ekstrak file zip yang baru saja di download
-  4. Edit file Modules/Setup jika Anda ingin kostumisasi Python
-     Jalankan
+ <p>1. Buka browser, kunjungi http://www.python.org/downloads/source/ </p>
+ <p>2. Download versi terbaru Python berbentuk file zip untuk Unix/Linux</p>
+ <p>3. Ekstrak file zip yang baru saja di download</p>
+ <p>4. Edit file Modules/Setup jika Anda ingin kostumisasi Python
+     Jalankan 
+
+`./configure`.
+
+script
+
+`make`
+
+`make install`
+
+ </p>
   
   <h3>Hello World</h3>
   <p>Hello world (Halo dunia) umumnya adalah program komputer yang mengeluarkan atau menampilkan pesan "Hello, World!". Program semacam itu sangat sederhana di sebagian besar bahasa pemrograman, dan sering digunakan untuk menggambarkan sintaks dasar bahasa pemrograman.</p>
