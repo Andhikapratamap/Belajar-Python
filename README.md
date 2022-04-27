@@ -120,6 +120,9 @@ Berikut adalah tipe data dari bahasa pemrograman Python :
 
 ```Python
 
+'''
+ Sumber:https://belajarpython.com/tutorial/tipe-data-python
+'''
 #tipe data Boolean
 print(True)
 
