@@ -222,6 +222,17 @@ print(luas)
 
 
 ```
+<hr>
+<h3>Operator di Python</h3>
+<p>Operator adalah konstruksi yang dapat memanipulasi nilai dari operan.
 
+Sebagai contoh operasi 3 + 2 = 5. Disini 3 dan 2 adalah operan dan + adalah operator</p>
+<p>Bahasa pemrograman Python mendukung berbagai macam operator, diantaranya :</p>
+ - <h5>Operator Aritmatika (Arithmathic Operators)</h5>
+ - <h5>Operator Perbandingan (Comparison (Relational) Operators</h5>
+ - <h5>Operator Penugasan (Assignment Operators)
 
+```Python
+
+ 
 
