@@ -90,6 +90,30 @@ Berikut adalah tipe data dari bahasa pemrograman Python :
  Integer
  contohnya   : 25 atau 1209
  Penjelasaan : Menyatakan bilangan bulat
+
+ Float
+ contohnya   : 3.14 dan 7.2
+ Penjelasan  : Bilangan yang mempunyai koma
+
+ Hexadecimal
+ contohnya   : 9a dan 3b
+ Penjelasan  : Menyatakan bilangan hexa (bilangan berbasis 16)
+ 
+ Complex 
+ contohnya   : 2 + 3x
+ Penjelasan  : Menyatakan angka real dan imajiner
+
+ List
+ contohnya   : ['tia',222,9.8]
+ Penjelasan  : Data untaian yang menyimpan berbagai tipe data dan isinya bisa diubah-ubah
+
+ Tuple
+ contohnya   : ['tia',222,9.8]
+ Penjelasan  : Data untaian yang menyimpan berbagai tipe data tetapi isinya tidak bisa diubah-ubah
+
+ Dictionary
+ contohnya   : {'nama':'Tia','id':1}
+ Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
  
 ```
 
