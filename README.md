@@ -72,6 +72,24 @@ print(127)
 
 ```
 
+<hr>
+<h3>Tipe Data</h3>
+<p>Tipe data adalah suatu media atau memori pada komputer yang digunakan untuk menampung informasi.</h3>
+Berikut adalah tipe data dari bahasa pemrograman Python :
 
+```Python
 
+ Boolean
+ contohnya   :  ``True``  dan  ``False``
+ Penjelasaan : Benar jika True atau 1 dan salah jika False atau 0
+   
+ String
+ contohnya   : "aku Andhika"
+ Penjelasaan : Menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda ' atau ")
+ 
+ Integer
+ contohnya   : 25 atau 1209
+ Penjelasaan : Menyatakan bilangan bulat
+ 
+```
 
