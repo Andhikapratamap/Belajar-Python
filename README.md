@@ -66,6 +66,10 @@ lebih dari satu baris
 #aku rindu kamu T💙
 print("=" * 10)
 #maka yang tampil di output hanya tulisan = dikali 10 atau ==========
+
+#mencetak angka/integer
+print(127)
+
 ```
 
 
