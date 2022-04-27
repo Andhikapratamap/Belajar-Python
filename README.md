@@ -228,11 +228,39 @@ print(luas)
 
 Sebagai contoh operasi 3 + 2 = 5. Disini 3 dan 2 adalah operan dan + adalah operator</p>
 <p>Bahasa pemrograman Python mendukung berbagai macam operator, diantaranya :</p>
- - <h5>Operator Aritmatika (Arithmathic Operators)</h5>
- - <h5>Operator Perbandingan (Comparison (Relational) Operators</h5>
- - <h5>Operator Penugasan (Assignment Operators)
+  <h5>Operator Aritmatika (Arithmathic Operators)</h5>
+  <h5>Operator Perbandingan (Comparison (Relational) Operators</h5>
+  <h5>Operator Penugasan (Assignment Operators)
+  <h5>Operator Logika (Logical Operators)</h5>
+  <h5>Operator Bitwise (Bitwise Operators</h5>
+  <h5>Operator Keanggotaan (Membership Operators)
+
+>Operator Aritmatika
+ - Penjumlahan misalnya 1+4 = 5 
+ - Pengurangan misalnya 5-4 = 1
+ - Perkalian  misalnya 1*3  = 3
+ - Pembagian misalnya 6/2   = 3
+ - Sisa bagi misalnya 11%2  = 1 
+ - Pangkat misalnya  8**2  = 64
+ - Pembagian bulat misalnya 10//3 = 3
+
 
 ```Python
+
+#OPERATOR ARITMATIKA
+
+#Penjumlahan
+print(13 + 2)
+apel = 7
+jeruk = 9
+buah = apel + jeruk #
+print(buah)
+
+#Pengurangan
+hutang = 10000
+bayar = 5000
+sisaHutang = hutang - bayar
+print("Sisa hutang Anda adalah ", sisaHutang)
 
  
 
