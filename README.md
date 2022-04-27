@@ -22,6 +22,9 @@ script
 `make install`
 
  </p>
+ <p> Langkah ini akan menginstal Python di lokasi standar /usr/local/bin dan library di /usr/local/lib/pythonXX dimana XX adalah versi terbaru Python yang anda gunakan.</p>
+
+>Untuk beberapa distro (distribution store) dari sistem operasi linux sudah terinstal Python di dalamnya. Jadi Anda tidak perlu menginstalnya lagi.
   
   <h3>Hello World</h3>
   <p>Hello world (Halo dunia) umumnya adalah program komputer yang mengeluarkan atau menampilkan pesan "Hello, World!". Program semacam itu sangat sederhana di sebagian besar bahasa pemrograman, dan sering digunakan untuk menggambarkan sintaks dasar bahasa pemrograman.</p>
