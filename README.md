@@ -37,4 +37,16 @@ print("Hello world")
 
 `Hello world`.
 
-<p>pada interpreter</p>
+<p>Python bersifat case sensitif, ini artinya huruf besar dan huruf kecil memiliki perbedaan. Sebagai contoh jika Anda menggunakan fungsi print dengan huruf kecil 
+
+``print()``  akan berhasil. Lain hal jika anda menggunakan huruf kapital
+ 
+``Print()`` 
+
+atau
+
+ ``PRINT()`` 
+
+, akan muncul pesan error.
+Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.  </p>
+
