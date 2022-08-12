@@ -62,8 +62,7 @@ Aturan ini berlaku untuk nama variabel ataupun fungsi-fungsi lainnya.  </p>
 ini menyatakan komentar
 lebih dari satu baris 
 '''
-#dibuat oleh Andhika Pratama Putra
-#aku rindu kamu Ti💙
+#dibuat oleh Andhika Pratama Putra 
 print("=" * 10)
 #maka yang tampil di output hanya tulisan = dikali 10 atau ==========
 
@@ -104,15 +103,15 @@ Berikut adalah tipe data dari bahasa pemrograman Python :
  Penjelasan  : Menyatakan angka real dan imajiner
 
  List
- contohnya   : ['tia',222,9.8]
+ contohnya   : ['Daffa',222,9.8]
  Penjelasan  : Data untaian yang menyimpan berbagai tipe data dan isinya bisa diubah-ubah
 
  Tuple
- contohnya   : ['tia',222,9.8]
+ contohnya   : ['Habib',222,9.8]
  Penjelasan  : Data untaian yang menyimpan berbagai tipe data tetapi isinya tidak bisa diubah-ubah
 
  Dictionary
- contohnya   : {'nama':'Tia','id':1}
+ contohnya   : {'nama':'Ragil','id':1}
  Penjelasaan : Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
  
 ```
