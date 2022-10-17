@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-# Chika Mey Andela
+# Chika Mey 
 # Mata Pelajaran TIK | ANALISIS DATA
 # X TKJ 1
 # SMK RADEN PAKU
